@@ -1,5 +1,5 @@
 {
-  "name": "functions",
+  "name": "test-sendmail-sendgrid-firebase",
   "scripts": {
     "lint": "tslint --project tsconfig.json",
     "build": "tsc",
